@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Rodel Jr. DV. Sustiguer, a Computer Science student at the University of Caloocan City.
+I'm Rodel Jr. DV. Sustiguer, a Computer Science student at University of Caloocan City.
 <!--
 **Arjayy007/Arjayy007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
